@@ -1,2 +1,2 @@
 # brushes
-Generative Algorithm that produces Drawing by emulating Brushes 
+Generative Algorithm that produces "drawings" by emulating Brushes 
